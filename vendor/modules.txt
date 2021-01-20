@@ -4,14 +4,14 @@ github.com/go-sql-driver/mysql
 github.com/golang/snappy
 # github.com/google/uuid v1.1.5
 github.com/google/uuid
-# github.com/iTrellis/go-common v0.21.0
-github.com/iTrellis/go-common/data-structures/stack
-github.com/iTrellis/go-common/encryption/hash
-github.com/iTrellis/go-common/errors
-github.com/iTrellis/go-common/files
-github.com/iTrellis/go-common/formats
-# github.com/iTrellis/go-config v0.21.0
-github.com/iTrellis/go-config
+# github.com/iTrellis/common v0.20.0
+github.com/iTrellis/common/data-structures/stack
+github.com/iTrellis/common/encryption/hash
+github.com/iTrellis/common/errors
+github.com/iTrellis/common/files
+github.com/iTrellis/common/formats
+# github.com/iTrellis/config v0.20.0
+github.com/iTrellis/config
 # github.com/syndtr/goleveldb v1.0.0
 github.com/syndtr/goleveldb/leveldb
 github.com/syndtr/goleveldb/leveldb/cache
