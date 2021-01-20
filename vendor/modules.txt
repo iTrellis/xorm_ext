@@ -1,0 +1,51 @@
+# github.com/go-sql-driver/mysql v1.5.0
+github.com/go-sql-driver/mysql
+# github.com/golang/snappy v0.0.0-20180518054509-2e65f85255db
+github.com/golang/snappy
+# github.com/google/uuid v1.1.5
+github.com/google/uuid
+# github.com/iTrellis/go-common v0.21.0
+github.com/iTrellis/go-common/data-structures/stack
+github.com/iTrellis/go-common/encryption/hash
+github.com/iTrellis/go-common/errors
+github.com/iTrellis/go-common/files
+github.com/iTrellis/go-common/formats
+# github.com/iTrellis/go-config v0.21.0
+github.com/iTrellis/go-config
+# github.com/syndtr/goleveldb v1.0.0
+github.com/syndtr/goleveldb/leveldb
+github.com/syndtr/goleveldb/leveldb/cache
+github.com/syndtr/goleveldb/leveldb/comparer
+github.com/syndtr/goleveldb/leveldb/errors
+github.com/syndtr/goleveldb/leveldb/filter
+github.com/syndtr/goleveldb/leveldb/iterator
+github.com/syndtr/goleveldb/leveldb/journal
+github.com/syndtr/goleveldb/leveldb/memdb
+github.com/syndtr/goleveldb/leveldb/opt
+github.com/syndtr/goleveldb/leveldb/storage
+github.com/syndtr/goleveldb/leveldb/table
+github.com/syndtr/goleveldb/leveldb/util
+# golang.org/x/text v0.3.5
+golang.org/x/text/encoding
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/transform
+# gopkg.in/yaml.v2 v2.4.0
+gopkg.in/yaml.v2
+# xorm.io/builder v0.3.7
+xorm.io/builder
+# xorm.io/xorm v1.0.6
+xorm.io/xorm
+xorm.io/xorm/caches
+xorm.io/xorm/contexts
+xorm.io/xorm/convert
+xorm.io/xorm/core
+xorm.io/xorm/dialects
+xorm.io/xorm/internal/json
+xorm.io/xorm/internal/statements
+xorm.io/xorm/internal/utils
+xorm.io/xorm/log
+xorm.io/xorm/names
+xorm.io/xorm/schemas
+xorm.io/xorm/tags
